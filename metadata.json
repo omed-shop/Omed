@@ -1,0 +1,8 @@
+{
+  "name": "OMED Tunisie",
+  "description": "Boutique officielle OMED en Tunisie : créations textiles exclusives, confections nobles en lin, laine et coton peigné en Dinars Tunisiens (TND).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
